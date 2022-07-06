@@ -1,2 +1,2 @@
-# ELijah Guzman React Portfolio Application
+# Elijah Guzman React Portfolio Application
 
